@@ -1,5 +1,5 @@
-##Install
+**Install**
 $npm install
 
-##Usage 
+**Usage**
 firebase.jsにAPIキーを追加することでしようが可能になります。
